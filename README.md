@@ -6,7 +6,7 @@
 ║  fredrick-ochieng ~ whoami                           ║
 ║  ❯ cat --pretty profile.json                         ║
 ║  { "role": "Senior Software Engineer",               ║
-║    "location": "Nairobi, Kenya 🇰🇪",               ║
+║    "location": "Nairobi, Kenya 🇰🇪",                  ║
 ║    "focus": "Reactive microservices · VOD · FinTech" ║
 ║    "status": "ready to ship" ▌                       ║
 ║  }                                                   ║
@@ -15,11 +15,11 @@
 
 # Fredrick Ochieng `freddygenicho`
 
-**Senior Software Engineer · Head of Digital Marketing & IT**
+**Senior Software Engineer**
 
 *Building systems that scale — from reactive Java microservices to Laravel fintech · Nairobi → the world*
 
-🏢 Content Aggregation Limited (Safaricom Baze VOD) &nbsp;|&nbsp; 📍 Nairobi, Kenya &nbsp;|&nbsp; 🐦 [@freddygenicho](https://twitter.com/freddygenicho)
+📍 Nairobi, Kenya &nbsp;|&nbsp; 🐦 [@freddygenicho](https://twitter.com/freddygenicho)
 
 </div>
 
@@ -30,7 +30,6 @@
 - ⚡ **Reactive microservices** with Spring Boot WebFlux, R2DBC & Reactor
 - 📺 **VOD platforms** — catalog, recommendations, live events (Baze @ Safaricom)
 - 💳 **FinTech APIs** — M-Pesa, Co-op Bank, USSD stacks
-- 🏦 **Chama / table banking** platforms (Laravel + Vue.js, multi-pocket savings)
 - 📊 **Event pipelines** with Kafka, ClickHouse & pgvector for ML-driven recommendations
 
 ## 🔭 Currently exploring
@@ -39,7 +38,6 @@
 - pgvector + Recombee managed recommendations for VOD
 - Inertia.js vs decoupled SPA for fintech frontend architecture
 - Configurable loan products & rotational savings governance
-- Where digital marketing analytics meets backend data infrastructure
 
 ---
 
@@ -84,20 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Fredrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freddygenicho&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=8b949e)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=freddygenicho&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3fb950&ring=58a6ff&fire=e3b341&currStreakLabel=3fb950)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freddygenicho&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=8b949e)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=freddygenicho&bg_color=0d1117&color=3fb950&line=58a6ff&point=e3b341&area=true&hide_border=true&area_color=1f4e8c)
@@ -114,12 +98,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/freddygenicho)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freddygenicho)
 
----
-
-<div align="center">
-
-Crafted with ♥ from Nairobi &nbsp;·&nbsp; Open to collaborations
-
-[![](https://visitcount.itsvg.in/api?id=freddygenicho&icon=5&color=1)](https://visitcount.itsvg.in)
-
-</div>
